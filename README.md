@@ -55,11 +55,11 @@ Nilai n diisi pada saat runtime
 
 Berikut kode program nya :
 
-![gambar 11](screenshot/ss11.png)
+![gambar 11](screenshot/ss12.png)
 
 Akan menghasilkan seperti ini :
 
-![gambar 12](screenshot/ss12.png)
+![gambar 12](screenshot/ss11.png)
 
 
 **Latihan Modul Praktikum 3**
