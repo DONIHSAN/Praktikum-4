@@ -49,8 +49,17 @@ Berikut adalah hasilnya.
 
 **Latihan 2**
 
+Tampilkan n bilangan acak yang lebih kecil dari 0.5
 
+Nilai n diisi pada saat runtime
 
+Berikut kode program nya :
+
+![gambar 11](screenshot/ss11.png)
+
+Akan menghasilkan seperti ini :
+
+![gambar 12](screenshot/ss12.png)
 
 
 **Latihan Modul Praktikum 3**
